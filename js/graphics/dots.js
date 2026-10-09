@@ -62,9 +62,14 @@ export function init(container, chemicals) {
       if (!['Prothiofos', 'Dithiocarbamates', 'Propargite'].includes(chem.name)) continue;
       const g = el('g', { class: 'mark' }, svg);
       const lift = chem.name === 'Propargite' ? 64 : chem.name === 'Dithiocarbamates' ? 40 : 40;
-      el('line', { x1: cx, x2: cx, y1: cy - r, y2: cy - lift + 4, stroke: 'currentColor', class: 'grid' }, g);
-      const anchor = cx > width * 0.7 ? 'end' : 'middle';
-      text(g, `${chem.name} ${chem.p90}%`, { x: cx, y: cy - lift, 'text-anchor': anchor, 'font-size': 13, 'font-weight': 700 });
+      const label = `${chem.name} ${chem.p90}%`;
+      if (cx > width * 0.8) {
+        // far right: label sits beside the dot, above the axis
+        text(g, label, { x: cx, y: cy - r - 8, 'text-anchor': 'end', 'font-size': 13, 'font-weight': 700 });
+      } else {
+        el('line', { x1: cx, x2: cx, y1: cy - r, y2: cy - lift + 4, class: 'grid' }, g);
+        text(g, label, { x: cx, y: cy - lift, 'text-anchor': 'middle', 'font-size': 13, 'font-weight': 700 });
+      }
       labels[chem.name] = g;
     }
     const under = chemicals.filter(c => pct(c.p90) < 10).length;

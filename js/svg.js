@@ -9,6 +9,7 @@ export function el(name, attrs = {}, parent) {
 
 export function text(parent, str, attrs = {}) {
   const t = el('text', attrs, parent);
+  if (attrs.fill) t.style.fill = attrs.fill;   // the stylesheet sets a default text fill
   t.textContent = str;
   return t;
 }

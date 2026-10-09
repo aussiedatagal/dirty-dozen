@@ -47,7 +47,7 @@
 .credit { font-size: 0.8rem; color: var(--muted); }
 
 /* chart text and marks */
-.graphic text { fill: var(--ink); font: 13px var(--body); }
+.graphic text { fill: var(--ink); font: 13px var(--body); paint-order: stroke; stroke: var(--bg); stroke-width: 4px; stroke-linejoin: round; }
 .graphic .muted { fill: var(--muted); }
 .graphic .axis line, .graphic .grid { stroke: var(--rule); }
 .graphic .limit { stroke: var(--plum); stroke-width: 2; }

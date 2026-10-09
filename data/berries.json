@@ -1,0 +1,14 @@
+{
+ "bought": "3 and 4 November 2025",
+ "pesticides_tested": 218,
+ "blueberry": {
+  "samples": 80,
+  "with_residue": 77
+ },
+ "raspberry": {
+  "samples": 20,
+  "with_residue": 18
+ },
+ "over_limit": 0,
+ "banned": 0
+}

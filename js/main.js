@@ -2,7 +2,7 @@ import { watchSteps } from './scroller.js';
 import * as list from './graphics/list.js';
 import * as bars from './graphics/bars.js';
 import * as dots from './graphics/dots.js';
-import * as timeline from './graphics/timeline.js';
+import * as punnets from './graphics/punnets.js';
 import { initLookup } from './lookup.js';
 
 const load = name => fetch(`data/${name}.json`).then(r => r.json());
@@ -11,12 +11,12 @@ const sections = [
   { id: 'list', chart: list, data: ['us-lists'] },
   { id: 'bars', chart: bars, data: ['foods', 'us-lists'] },
   { id: 'dots', chart: dots, data: ['chemicals'] },
-  { id: 'time', chart: timeline, data: ['apples-iprodione'] },
+  { id: 'berries', chart: punnets, data: ['berries'] },
 ];
 
 async function start() {
   const files = {};
-  for (const name of ['us-lists', 'foods', 'chemicals', 'apples-iprodione']) files[name] = load(name);
+  for (const name of ['us-lists', 'foods', 'chemicals', 'berries']) files[name] = load(name);
 
   for (const { id, chart, data } of sections) {
     const section = document.getElementById(id);
