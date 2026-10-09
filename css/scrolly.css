@@ -21,7 +21,7 @@
 
 .step {
   max-width: 30rem;
-  margin: 0 auto 55svh;
+  margin: 0 auto 80svh;
   padding: 1rem 1.1rem;
   background: var(--card);
   border: 1px solid var(--rule);
