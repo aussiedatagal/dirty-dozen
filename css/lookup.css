@@ -1,0 +1,45 @@
+.lookup label { display: block; font-weight: 700; margin-bottom: 0.25rem; }
+
+.lookup input {
+  width: 100%;
+  font: 16px var(--body);
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--faint);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.food-list {
+  list-style: none;
+  margin: 0.5rem 0 1rem;
+  padding: 0;
+  max-height: 14rem;
+  overflow-y: auto;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+}
+.food-list button {
+  width: 100%;
+  min-height: 44px;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--rule);
+  padding: 0.5rem 0.75rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  cursor: pointer;
+}
+.food-list button[aria-pressed="true"] { background: var(--rule); }
+.food-list .count { color: var(--muted); white-space: nowrap; }
+
+.food-detail h3 { font-family: var(--display); font-size: 1.3rem; margin: 0 0 0.25rem; }
+.food-detail .none { color: var(--muted); }
+.food-detail table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+.food-detail th, .food-detail td { text-align: left; padding: 0.4rem 0.25rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.food-detail td.num, .food-detail th.num { text-align: right; white-space: nowrap; }
+.food-detail .flag { color: var(--plum); font-size: 0.85rem; display: block; }

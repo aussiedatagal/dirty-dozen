@@ -1,0 +1,153 @@
+{
+ "dozen": [
+  {
+   "name": "Spinach",
+   "rank": 1,
+   "atds": null,
+   "how": null
+  },
+  {
+   "name": "Kale, collard and mustard greens",
+   "rank": 2,
+   "atds": null,
+   "how": null
+  },
+  {
+   "name": "Strawberries",
+   "rank": 3,
+   "atds": "Strawberries",
+   "how": "fresh"
+  },
+  {
+   "name": "Grapes",
+   "rank": 4,
+   "atds": "Grapes",
+   "how": "fresh"
+  },
+  {
+   "name": "Nectarines",
+   "rank": 5,
+   "atds": "Nectarine",
+   "how": "fresh"
+  },
+  {
+   "name": "Peaches",
+   "rank": 6,
+   "atds": "Peach, natural juice",
+   "how": "canned"
+  },
+  {
+   "name": "Cherries",
+   "rank": 7,
+   "atds": null,
+   "how": null
+  },
+  {
+   "name": "Apples",
+   "rank": 8,
+   "atds": "Apples",
+   "how": "fresh"
+  },
+  {
+   "name": "Blackberries",
+   "rank": 9,
+   "atds": null,
+   "how": null
+  },
+  {
+   "name": "Pears",
+   "rank": 10,
+   "atds": null,
+   "how": null
+  },
+  {
+   "name": "Potatoes",
+   "rank": 11,
+   "atds": "Potato",
+   "how": "fresh"
+  },
+  {
+   "name": "Blueberries",
+   "rank": 12,
+   "atds": null,
+   "how": null
+  }
+ ],
+ "clean": [
+  {
+   "name": "Pineapple",
+   "atds": "Pineapple, canned in natural juice",
+   "how": "canned"
+  },
+  {
+   "name": "Sweet corn",
+   "atds": "Sweetcorn, kernels, frozen",
+   "how": "frozen"
+  },
+  {
+   "name": "Avocados",
+   "atds": "Avocados",
+   "how": "fresh"
+  },
+  {
+   "name": "Papayas",
+   "atds": null,
+   "how": null
+  },
+  {
+   "name": "Onions",
+   "atds": "Onions",
+   "how": "fresh"
+  },
+  {
+   "name": "Sweet peas",
+   "atds": "Peas, frozen",
+   "how": "frozen"
+  },
+  {
+   "name": "Asparagus",
+   "atds": null,
+   "how": null
+  },
+  {
+   "name": "Cabbage",
+   "atds": null,
+   "how": null
+  },
+  {
+   "name": "Cauliflower",
+   "atds": "Cauliflower",
+   "how": "fresh"
+  },
+  {
+   "name": "Watermelon",
+   "atds": "Watermelon",
+   "how": "fresh"
+  },
+  {
+   "name": "Mangoes",
+   "atds": "Mango",
+   "how": "fresh"
+  },
+  {
+   "name": "Bananas",
+   "atds": "Bananas",
+   "how": "fresh"
+  },
+  {
+   "name": "Carrots",
+   "atds": "Carrots",
+   "how": "fresh"
+  },
+  {
+   "name": "Mushrooms",
+   "atds": "Mushrooms",
+   "how": "fresh"
+  },
+  {
+   "name": "Kiwi",
+   "atds": "Kiwifruit",
+   "how": "fresh"
+  }
+ ]
+}

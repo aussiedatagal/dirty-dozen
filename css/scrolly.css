@@ -1,0 +1,106 @@
+.scrolly { position: relative; }
+
+.sticky {
+  position: sticky;
+  top: 0;
+  height: 60svh;
+  margin: 0;
+  padding: 0.5rem 0.75rem 0;
+  background: var(--bg);
+  z-index: 0;
+}
+
+.graphic { width: 100%; height: 100%; }
+.graphic svg { display: block; width: 100%; height: 100%; overflow: visible; }
+
+.steps {
+  position: relative;
+  z-index: 1;
+  padding: 0 0.75rem 30svh;
+}
+
+.step {
+  max-width: 30rem;
+  margin: 0 auto 55svh;
+  padding: 1rem 1.1rem;
+  background: var(--card);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+}
+.step p { transition: color 250ms; }
+.step:not(.is-active) p { color: var(--muted); }
+.step:first-child { margin-top: 30svh; }
+.step p { margin: 0 0 0.6rem; }
+.step p:last-child { margin-bottom: 0; }
+
+.scan {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0.75rem 0 0.25rem;
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 4px;
+  transform: rotate(-0.6deg);
+}
+.scan-link { display: block; }
+.credit { font-size: 0.8rem; color: var(--muted); }
+
+/* chart text and marks */
+.graphic text { fill: var(--ink); font: 13px var(--body); }
+.graphic .muted { fill: var(--muted); }
+.graphic .axis line, .graphic .grid { stroke: var(--rule); }
+.graphic .limit { stroke: var(--plum); stroke-width: 2; }
+.graphic .mark { transition: fill 400ms, opacity 400ms, transform 600ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  .graphic .mark, .step p { transition: none; }
+}
+
+@media (min-width: 900px) {
+  .scrolly { display: flex; flex-direction: row-reverse; max-width: 74rem; margin: 0 auto; }
+  .sticky { flex: 1 1 60%; height: 100svh; padding: 2rem 1rem; display: flex; align-items: center; }
+  .steps { flex: 0 0 25rem; padding: 0 1rem 40svh; }
+  .step { margin-bottom: 80svh; }
+  .step:first-child { margin-top: 40svh; }
+}
+
+/* Dirty Dozen tiles */
+.tiles {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 1fr;
+  gap: 6px;
+}
+.tile {
+  border: 2px solid var(--faint);
+  border-radius: 6px;
+  padding: 0.35rem 0.45rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  transition: background 400ms, border-color 400ms, opacity 400ms;
+}
+.tile .rank { font-family: var(--display); font-size: 1.1rem; color: var(--muted); }
+.tile .name { font-weight: 700; }
+.tile .note { font-size: 0.75rem; color: var(--muted); opacity: 0; transition: opacity 400ms; }
+.tiles:not([data-state="all"]) .note { opacity: 1; }
+.tiles[data-state="tested"] .tile[data-how="fresh"] { background: var(--leaf); border-color: var(--leaf); color: #fff; }
+.tiles[data-state="tested"] .tile[data-how="fresh"] .rank,
+.tiles[data-state="tested"] .tile[data-how="fresh"] .note { color: #fff; }
+.tiles[data-state="tested"] .tile[data-how="canned"] { border-color: var(--amber); }
+.tiles[data-state="tested"] .tile[data-how="none"] { opacity: 0.5; }
+.tiles[data-state="untested"] .tile[data-how="none"] { border-color: var(--plum); border-style: dashed; }
+.tiles[data-state="untested"] .tile[data-how="canned"] { border-color: var(--amber); }
+.tiles[data-state="untested"] .tile[data-how="fresh"] { opacity: 0.4; }
+
+@media (min-width: 900px) {
+  .tiles { grid-template-columns: repeat(4, 1fr); height: 70%; width: 100%; font-size: 1rem; }
+  .tile { padding: 0.6rem; }
+}

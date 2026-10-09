@@ -1,0 +1,639 @@
+[
+ {
+  "name": "Prothiofos",
+  "group": "organophosphorus insecticides",
+  "p90": "400",
+  "mean": "200",
+  "age": "2-5 years",
+  "foods": [
+   "Grapes"
+  ]
+ },
+ {
+  "name": "Dithiocarbamates",
+  "group": "fungicides",
+  "p90": "80",
+  "mean": "35",
+  "age": "2-5 years",
+  "foods": [
+   "Apples",
+   "Bok Choi",
+   "Broccoli",
+   "Capsicum",
+   "Cauliflower",
+   "Grapes",
+   "Hamburger",
+   "Lamb chops, loin",
+   "Nectarine",
+   "Prawns, cooked",
+   "Strawberries",
+   "Sultanas",
+   "Tomatoes, raw"
+  ]
+ },
+ {
+  "name": "Propargite",
+  "group": "other pesticides",
+  "p90": "50",
+  "mean": "30",
+  "age": "2-5 years",
+  "foods": [
+   "Apples",
+   "Nectarine"
+  ]
+ },
+ {
+  "name": "Omethoate",
+  "group": "organophosphorus insecticides",
+  "p90": "9",
+  "mean": "2",
+  "age": "6-12 years",
+  "foods": [
+   "Beans, green",
+   "Mango"
+  ]
+ },
+ {
+  "name": "Chlorpyrifos",
+  "group": "organophosphorus insecticides",
+  "p90": "8",
+  "mean": "3",
+  "age": "2-5 years",
+  "foods": [
+   "Apples",
+   "Beans, green",
+   "Capsicum",
+   "Cucumber",
+   "Grapes",
+   "Sultanas"
+  ]
+ },
+ {
+  "name": "Methamidophos",
+  "group": "organophosphorus insecticides",
+  "p90": "7",
+  "mean": "3",
+  "age": "2-5 years",
+  "foods": [
+   "Bok Choi",
+   "Capsicum",
+   "Tomatoes, raw"
+  ]
+ },
+ {
+  "name": "Diphenylamine",
+  "group": "fungicides",
+  "p90": "6",
+  "mean": "3",
+  "age": "2-5 years",
+  "foods": [
+   "Apples"
+  ]
+ },
+ {
+  "name": "Pirimicarb",
+  "group": "organophosphorus insecticides",
+  "p90": "5",
+  "mean": "2",
+  "age": "2-5 years",
+  "foods": [
+   "Bok Choi",
+   "Strawberries"
+  ]
+ },
+ {
+  "name": "Fenthion",
+  "group": "organophosphorus insecticides",
+  "p90": "4",
+  "mean": "2",
+  "age": "2-5 years",
+  "foods": [
+   "Mango"
+  ]
+ },
+ {
+  "name": "Trichlorfon",
+  "group": "organophosphorus insecticides",
+  "p90": "4",
+  "mean": "2",
+  "age": "2-5 years",
+  "foods": [
+   "Apples",
+   "Nectarine"
+  ]
+ },
+ {
+  "name": "Imazalil",
+  "group": "fungicides",
+  "p90": "3",
+  "mean": "1",
+  "age": "2-5 years",
+  "foods": [
+   "Apples",
+   "Orange"
+  ]
+ },
+ {
+  "name": "Chlorpyrifos methyl",
+  "group": "organophosphorus insecticides",
+  "p90": "3",
+  "mean": "2",
+  "age": "2-5 years",
+  "foods": [
+   "Biscuits, savoury",
+   "Bread, multigrain",
+   "Bread, white",
+   "Breakfast cereals, wheat or corn, single grain or mixed",
+   "Hamburger",
+   "Pizza, meat and vege topping"
+  ]
+ },
+ {
+  "name": "Fenitrothion",
+  "group": "organophosphorus insecticides",
+  "p90": "3",
+  "mean": "2",
+  "age": "2-5 years",
+  "foods": [
+   "Bread, multigrain",
+   "Bread, white",
+   "Hamburger"
+  ]
+ },
+ {
+  "name": "Piperonyl butoxide",
+  "group": "other pesticides",
+  "p90": "3",
+  "mean": "2",
+  "age": "2-5 years",
+  "foods": [
+   "Biscuits, savoury",
+   "Bread, multigrain",
+   "Bread, white",
+   "Breakfast cereals, wheat or corn, single grain or mixed",
+   "Cake, chocolate, iced",
+   "Capsicum",
+   "Fish portions, frozen from supermarket",
+   "Hamburger",
+   "Liver pate (chicken)",
+   "Mushrooms",
+   "Oats, rolled",
+   "Orange",
+   "Pasta",
+   "Peanut butter",
+   "Pie, meat, individual size",
+   "Pizza, meat and vege topping",
+   "Strawberries",
+   "Sultanas"
+  ]
+ },
+ {
+  "name": "Iprodione",
+  "group": "fungicides",
+  "p90": "2",
+  "mean": "<1",
+  "age": "2-5 years",
+  "foods": [
+   "Apples",
+   "Breakfast cereals, wheat or corn, single grain or mixed",
+   "Celery",
+   "Cucumber",
+   "Grapes",
+   "Nectarine",
+   "Strawberries",
+   "Sultanas",
+   "Wine, red and white"
+  ]
+ },
+ {
+  "name": "Fluazifop-P-butyl",
+  "group": "herbicides",
+  "p90": "2",
+  "mean": "<1",
+  "age": "2-5 years",
+  "foods": [
+   "Beans, green",
+   "Broccoli",
+   "Carrots",
+   "Potato",
+   "Watermelon"
+  ]
+ },
+ {
+  "name": "Haloxyfop-methyl",
+  "group": "herbicides",
+  "p90": "2",
+  "mean": "<1",
+  "age": "2-5 years",
+  "foods": [
+   "Peanut butter"
+  ]
+ },
+ {
+  "name": "Acephate",
+  "group": "organophosphorus insecticides",
+  "p90": "2",
+  "mean": "<1",
+  "age": "2-5 years",
+  "foods": [
+   "Bananas",
+   "Broccoli",
+   "Capsicum",
+   "Tomatoes, raw"
+  ]
+ },
+ {
+  "name": "Bifenthrin",
+  "group": "synthetic pyrethroids",
+  "p90": "2",
+  "mean": "<1",
+  "age": "2-5 years",
+  "foods": [
+   "Bok Choi",
+   "Capsicum",
+   "Cucumber",
+   "Nectarine",
+   "Tomatoes, raw"
+  ]
+ },
+ {
+  "name": "Deltamethrin",
+  "group": "synthetic pyrethroids",
+  "p90": "2",
+  "mean": "1",
+  "age": "2-5 years",
+  "foods": [
+   "Biscuits, savoury",
+   "Bread, white",
+   "Breakfast cereals, wheat or corn, single grain or mixed"
+  ]
+ },
+ {
+  "name": "Diazinon",
+  "group": "organophosphorus insecticides",
+  "p90": "1",
+  "mean": "<1",
+  "age": "19 years and above",
+  "foods": [
+   "Bok Choi",
+   "Capsicum"
+  ]
+ },
+ {
+  "name": "Methomyl",
+  "group": "organophosphorus insecticides",
+  "p90": "1",
+  "mean": "<1",
+  "age": "2-5 years",
+  "foods": [
+   "Beans, green",
+   "Cucumber",
+   "Grapes",
+   "Nectarine"
+  ]
+ },
+ {
+  "name": "Azoxystrobin",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Bok Choi",
+   "Cucumber",
+   "Sultanas"
+  ]
+ },
+ {
+  "name": "Captan",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Strawberries",
+   "Sultanas"
+  ]
+ },
+ {
+  "name": "Carbendazim",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Apples",
+   "Bacon",
+   "Cucumber",
+   "Mango",
+   "Mushrooms",
+   "Pizza, meat and vege topping"
+  ]
+ },
+ {
+  "name": "Cyprodinil",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Strawberries"
+  ]
+ },
+ {
+  "name": "Difenoconazole",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Tomatoes, raw"
+  ]
+ },
+ {
+  "name": "Metalaxyl",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Cucumber",
+   "Wine, red and white"
+  ]
+ },
+ {
+  "name": "Myclobutanil",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Apples",
+   "Grapes",
+   "Strawberries"
+  ]
+ },
+ {
+  "name": "Prochloraz",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Mushrooms"
+  ]
+ },
+ {
+  "name": "Procymidone",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Carrots"
+  ]
+ },
+ {
+  "name": "Propiconazole",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Nectarine"
+  ]
+ },
+ {
+  "name": "Pyrimethanil",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Breakfast cereals, wheat or corn, single grain or mixed",
+   "Grapes",
+   "Strawberries",
+   "Sultanas"
+  ]
+ },
+ {
+  "name": "Tebuconazole",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Beans, green"
+  ]
+ },
+ {
+  "name": "Thiabendazole",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Apples",
+   "Bananas",
+   "Mushrooms",
+   "Orange"
+  ]
+ },
+ {
+  "name": "Triadimenol",
+  "group": "fungicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Bok Choi",
+   "Capsicum",
+   "Cucumber",
+   "Tomatoes, raw"
+  ]
+ },
+ {
+  "name": "Chlorpropham",
+  "group": "herbicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Potato"
+  ]
+ },
+ {
+  "name": "Glyphosate",
+  "group": "herbicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Biscuits, savoury",
+   "Bread, multigrain",
+   "Bread, white",
+   "Breakfast cereals, rice based",
+   "Infant cereal, mixed"
+  ]
+ },
+ {
+  "name": "Propyzamide",
+  "group": "herbicides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Bok Choi"
+  ]
+ },
+ {
+  "name": "Azinphos methyl",
+  "group": "organophosphorus insecticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Nectarine"
+  ]
+ },
+ {
+  "name": "Carbofuran",
+  "group": "organophosphorus insecticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Chocolate, milk"
+  ]
+ },
+ {
+  "name": "Dimethoate",
+  "group": "organophosphorus insecticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Beans, green",
+   "Bok Choi",
+   "Cucumber"
+  ]
+ },
+ {
+  "name": "Fenoxycarb",
+  "group": "organophosphorus insecticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Apples"
+  ]
+ },
+ {
+  "name": "Malathion",
+  "group": "organophosphorus insecticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Grapes"
+  ]
+ },
+ {
+  "name": "Pirimiphos methyl",
+  "group": "organophosphorus insecticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Bread, multigrain",
+   "Bread, white"
+  ]
+ },
+ {
+  "name": "Cyhalothrin",
+  "group": "synthetic pyrethroids",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Bok Choi"
+  ]
+ },
+ {
+  "name": "Cypermethrin",
+  "group": "synthetic pyrethroids",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Biscuits, savoury",
+   "Bok Choi",
+   "Broccoli",
+   "Margarine, monounsaturated",
+   "Nectarine",
+   "Strawberries",
+   "Sultanas",
+   "Tomatoes, raw"
+  ]
+ },
+ {
+  "name": "Permethrin",
+  "group": "synthetic pyrethroids",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Bok Choi",
+   "Capsicum",
+   "Tomatoes, raw"
+  ]
+ },
+ {
+  "name": "Acetamiprid",
+  "group": "other pesticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Sultanas"
+  ]
+ },
+ {
+  "name": "Imidacloprid",
+  "group": "other pesticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Bananas",
+   "Bok Choi",
+   "Capsicum",
+   "Cucumber",
+   "Hamburger",
+   "Lettuce",
+   "Tomatoes, raw"
+  ]
+ },
+ {
+  "name": "Indoxacarb",
+  "group": "other pesticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Bok Choi",
+   "Capsicum",
+   "Grapes"
+  ]
+ },
+ {
+  "name": "Spinosad",
+  "group": "other pesticides",
+  "p90": "<1",
+  "mean": "<1",
+  "age": "9 months",
+  "foods": [
+   "Strawberries"
+  ]
+ }
+]

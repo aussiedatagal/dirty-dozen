@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+
+# research behind the page stays local
+research/

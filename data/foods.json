@@ -1,0 +1,1610 @@
+[
+ {
+  "name": "Almonds",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Apples",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Diphenylamine",
+    "detects": 6,
+    "max": 0.24,
+    "flag": null
+   },
+   {
+    "name": "Iprodione",
+    "detects": 6,
+    "max": 0.13,
+    "flag": null
+   },
+   {
+    "name": "Propargite",
+    "detects": 6,
+    "max": 0.17,
+    "flag": null
+   },
+   {
+    "name": "Dithiocarbamates",
+    "detects": 3,
+    "max": 0.32,
+    "flag": null
+   },
+   {
+    "name": "Thiabendazole",
+    "detects": 3,
+    "max": 0.54,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos",
+    "detects": 2,
+    "max": 0.14,
+    "flag": null
+   },
+   {
+    "name": "Fenoxycarb",
+    "detects": 2,
+    "max": 0.024,
+    "flag": null
+   },
+   {
+    "name": "Imazalil",
+    "detects": 2,
+    "max": 0.17,
+    "flag": null
+   },
+   {
+    "name": "Carbendazim",
+    "detects": 1,
+    "max": 0.013,
+    "flag": null
+   },
+   {
+    "name": "Myclobutanil",
+    "detects": 1,
+    "max": 0.012,
+    "flag": null
+   },
+   {
+    "name": "Trichlorfon",
+    "detects": 1,
+    "max": 0.022,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Avocados",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": []
+ },
+ {
+  "name": "Bacon",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Carbendazim",
+    "detects": 1,
+    "max": 0.042,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Baked Beans in tomato sauce",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Bananas",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Thiabendazole",
+    "detects": 3,
+    "max": 0.079,
+    "flag": null
+   },
+   {
+    "name": "Imidacloprid",
+    "detects": 2,
+    "max": 0.013,
+    "flag": null
+   },
+   {
+    "name": "Acephate",
+    "detects": 1,
+    "max": 0.036,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Beans, green",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Tebuconazole",
+    "detects": 3,
+    "max": 0.03,
+    "flag": null
+   },
+   {
+    "name": "Dimethoate",
+    "detects": 2,
+    "max": 0.034,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos",
+    "detects": 1,
+    "max": 0.17,
+    "flag": "over"
+   },
+   {
+    "name": "Fluazifop-P-butyl",
+    "detects": 1,
+    "max": 0.014,
+    "flag": null
+   },
+   {
+    "name": "Methomyl",
+    "detects": 1,
+    "max": 0.011,
+    "flag": null
+   },
+   {
+    "name": "Omethoate",
+    "detects": 1,
+    "max": 0.015,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Beef mince, lean",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Beer, full strength",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Beetroot, canned",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Biscuits, savoury",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Chlorpyrifos methyl",
+    "detects": 3,
+    "max": 0.1,
+    "flag": null
+   },
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 3,
+    "max": 0.24,
+    "flag": null
+   },
+   {
+    "name": "Cypermethrin",
+    "detects": 1,
+    "max": 0.014,
+    "flag": null
+   },
+   {
+    "name": "Deltamethrin",
+    "detects": 1,
+    "max": 0.043,
+    "flag": null
+   },
+   {
+    "name": "Glyphosate",
+    "detects": 1,
+    "max": 0.014,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Bok Choi",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Dithiocarbamates",
+    "detects": 4,
+    "max": 0.86,
+    "flag": null
+   },
+   {
+    "name": "Azoxystrobin",
+    "detects": 3,
+    "max": 0.076,
+    "flag": null
+   },
+   {
+    "name": "Cypermethrin",
+    "detects": 3,
+    "max": 0.082,
+    "flag": null
+   },
+   {
+    "name": "Permethrin",
+    "detects": 3,
+    "max": 0.45,
+    "flag": null
+   },
+   {
+    "name": "Imidacloprid",
+    "detects": 2,
+    "max": 0.021,
+    "flag": null
+   },
+   {
+    "name": "Pirimicarb demethyl",
+    "detects": 2,
+    "max": 0.025,
+    "flag": null
+   },
+   {
+    "name": "Bifenthrin",
+    "detects": 1,
+    "max": 0.011,
+    "flag": null
+   },
+   {
+    "name": "Cyhalothrin",
+    "detects": 1,
+    "max": 0.059,
+    "flag": "none-set"
+   },
+   {
+    "name": "Diazinon",
+    "detects": 1,
+    "max": 0.34,
+    "flag": null
+   },
+   {
+    "name": "Dimethoate",
+    "detects": 1,
+    "max": 0.012,
+    "flag": "none-set"
+   },
+   {
+    "name": "Indoxacarb",
+    "detects": 1,
+    "max": 0.027,
+    "flag": null
+   },
+   {
+    "name": "Methamidophos",
+    "detects": 1,
+    "max": 0.13,
+    "flag": null
+   },
+   {
+    "name": "Pirimicarb",
+    "detects": 1,
+    "max": 0.038,
+    "flag": null
+   },
+   {
+    "name": "Propyzamide",
+    "detects": 1,
+    "max": 0.085,
+    "flag": null
+   },
+   {
+    "name": "Triadimefon",
+    "detects": 1,
+    "max": 0.013,
+    "flag": null
+   },
+   {
+    "name": "Triadimenol",
+    "detects": 1,
+    "max": 0.24,
+    "flag": "none-set"
+   }
+  ]
+ },
+ {
+  "name": "Bread, multigrain",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 7,
+    "max": 0.27,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos methyl",
+    "detects": 6,
+    "max": 0.044,
+    "flag": null
+   },
+   {
+    "name": "Glyphosate",
+    "detects": 3,
+    "max": 0.08,
+    "flag": null
+   },
+   {
+    "name": "Fenitrothion",
+    "detects": 2,
+    "max": 0.029,
+    "flag": null
+   },
+   {
+    "name": "Pirimiphos methyl",
+    "detects": 1,
+    "max": 0.02,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Bread, white",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 6,
+    "max": 0.41,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos methyl",
+    "detects": 3,
+    "max": 0.14,
+    "flag": null
+   },
+   {
+    "name": "Deltamethrin",
+    "detects": 2,
+    "max": 0.072,
+    "flag": null
+   },
+   {
+    "name": "Fenitrothion",
+    "detects": 1,
+    "max": 0.09,
+    "flag": null
+   },
+   {
+    "name": "Glyphosate",
+    "detects": 1,
+    "max": 0.033,
+    "flag": null
+   },
+   {
+    "name": "Pirimiphos methyl",
+    "detects": 1,
+    "max": 0.026,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Breakfast cereals, rice based",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Glyphosate",
+    "detects": 1,
+    "max": 0.012,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Breakfast cereals, wheat or corn, single grain or mixed",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 4,
+    "max": 1.2,
+    "flag": null
+   },
+   {
+    "name": "Deltamethrin",
+    "detects": 3,
+    "max": 0.16,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos methyl",
+    "detects": 1,
+    "max": 0.058,
+    "flag": null
+   },
+   {
+    "name": "Iprodione",
+    "detects": 1,
+    "max": 0.017,
+    "flag": null
+   },
+   {
+    "name": "Pyrimethanil",
+    "detects": 1,
+    "max": 0.033,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Broccoli",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Dithiocarbamates",
+    "detects": 8,
+    "max": 2.5,
+    "flag": "over"
+   },
+   {
+    "name": "Acephate",
+    "detects": 5,
+    "max": 0.062,
+    "flag": null
+   },
+   {
+    "name": "Cypermethrin",
+    "detects": 3,
+    "max": 0.018,
+    "flag": null
+   },
+   {
+    "name": "Fluazifop-P-butyl",
+    "detects": 2,
+    "max": 0.015,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Butter",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Cake, chocolate, iced",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 2,
+    "max": 0.028,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Capsicum",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Imidacloprid",
+    "detects": 6,
+    "max": 0.067,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos",
+    "detects": 4,
+    "max": 0.11,
+    "flag": null
+   },
+   {
+    "name": "Acephate",
+    "detects": 2,
+    "max": 0.083,
+    "flag": null
+   },
+   {
+    "name": "Methamidophos",
+    "detects": 2,
+    "max": 0.14,
+    "flag": null
+   },
+   {
+    "name": "Triadimenol",
+    "detects": 2,
+    "max": 0.012,
+    "flag": null
+   },
+   {
+    "name": "Bifenthrin",
+    "detects": 1,
+    "max": 0.1,
+    "flag": null
+   },
+   {
+    "name": "Diazinon",
+    "detects": 1,
+    "max": 0.015,
+    "flag": null
+   },
+   {
+    "name": "Dithiocarbamates",
+    "detects": 1,
+    "max": 0.26,
+    "flag": null
+   },
+   {
+    "name": "Indoxacarb",
+    "detects": 1,
+    "max": 0.025,
+    "flag": null
+   },
+   {
+    "name": "Permethrin",
+    "detects": 1,
+    "max": 0.019,
+    "flag": "none-set"
+   },
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 1,
+    "max": 0.027,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Carrots",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Fluazifop-P-butyl",
+    "detects": 1,
+    "max": 0.027,
+    "flag": null
+   },
+   {
+    "name": "Procymidone",
+    "detects": 1,
+    "max": 0.016,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Cauliflower",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Dithiocarbamates",
+    "detects": 8,
+    "max": 1.6,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Celery",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Fenvalerate",
+    "detects": 1,
+    "max": 0.012,
+    "flag": null
+   },
+   {
+    "name": "Iprodione",
+    "detects": 1,
+    "max": 0.013,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Cheese, cheddar, full fat",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Chicken breast",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Chocolate, milk",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Carbofuran",
+    "detects": 1,
+    "max": 0.025,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Coconut, desiccated",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Coffee, instant",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Cucumber",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Azoxystrobin",
+    "detects": 2,
+    "max": 0.054,
+    "flag": null
+   },
+   {
+    "name": "Carbendazim",
+    "detects": 2,
+    "max": 0.025,
+    "flag": null
+   },
+   {
+    "name": "Dimethoate",
+    "detects": 2,
+    "max": 0.02,
+    "flag": "none-set"
+   },
+   {
+    "name": "Imidacloprid",
+    "detects": 2,
+    "max": 0.017,
+    "flag": null
+   },
+   {
+    "name": "Metalaxyl",
+    "detects": 2,
+    "max": 0.13,
+    "flag": null
+   },
+   {
+    "name": "Triadimenol",
+    "detects": 2,
+    "max": 0.023,
+    "flag": null
+   },
+   {
+    "name": "Bifenthrin",
+    "detects": 1,
+    "max": 0.014,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos",
+    "detects": 1,
+    "max": 0.019,
+    "flag": "over"
+   },
+   {
+    "name": "Iprodione",
+    "detects": 1,
+    "max": 0.049,
+    "flag": null
+   },
+   {
+    "name": "Methomyl",
+    "detects": 1,
+    "max": 0.055,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Eggs",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Fish fillets, plain from takeaway",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Fish portions, frozen from supermarket",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 2,
+    "max": 0.047,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Garlic",
+  "samples": 4,
+  "fresh": true,
+  "chemicals": []
+ },
+ {
+  "name": "Grapes",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Dithiocarbamates",
+    "detects": 7,
+    "max": 1.7,
+    "flag": null
+   },
+   {
+    "name": "Methomyl",
+    "detects": 6,
+    "max": 0.11,
+    "flag": null
+   },
+   {
+    "name": "Pyrimethanil",
+    "detects": 6,
+    "max": 0.35,
+    "flag": null
+   },
+   {
+    "name": "Prothiofos",
+    "detects": 5,
+    "max": 0.39,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos",
+    "detects": 3,
+    "max": 0.062,
+    "flag": null
+   },
+   {
+    "name": "Iprodione",
+    "detects": 2,
+    "max": 0.12,
+    "flag": null
+   },
+   {
+    "name": "Myclobutanil",
+    "detects": 2,
+    "max": 0.055,
+    "flag": null
+   },
+   {
+    "name": "Indoxacarb",
+    "detects": 1,
+    "max": 0.018,
+    "flag": null
+   },
+   {
+    "name": "Malathion",
+    "detects": 1,
+    "max": 0.011,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Ham, sliced delicatessen style",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Hamburger",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 6,
+    "max": 0.075,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos methyl",
+    "detects": 2,
+    "max": 0.03,
+    "flag": null
+   },
+   {
+    "name": "Dithiocarbamates",
+    "detects": 1,
+    "max": 0.11,
+    "flag": null
+   },
+   {
+    "name": "Fenitrothion",
+    "detects": 1,
+    "max": 0.039,
+    "flag": null
+   },
+   {
+    "name": "Imidacloprid",
+    "detects": 1,
+    "max": 0.016,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Honey",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Hot chocolate beverage",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Ice cream, full fat, vanilla",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Infant cereal, mixed",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Glyphosate",
+    "detects": 1,
+    "max": 0.011,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Infant dessert, milk based",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Infant dinner",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Infant formula",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Juice, fruit",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Kiwifruit",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": []
+ },
+ {
+  "name": "Lamb chops, loin",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Dithiocarbamates",
+    "detects": 2,
+    "max": 0.19,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Lettuce",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Imidacloprid",
+    "detects": 2,
+    "max": 0.02,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Liver pate (chicken)",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 1,
+    "max": 0.077,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Mango",
+  "samples": 4,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Omethoate",
+    "detects": 4,
+    "max": 0.025,
+    "flag": null
+   },
+   {
+    "name": "Fenthion Sulfoxide",
+    "detects": 3,
+    "max": 0.016,
+    "flag": null
+   },
+   {
+    "name": "Carbendazim",
+    "detects": 1,
+    "max": 0.014,
+    "flag": null
+   },
+   {
+    "name": "Fenthion",
+    "detects": 1,
+    "max": 0.01,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Margarine, monounsaturated",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Cypermethrin",
+    "detects": 1,
+    "max": 0.085,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Milk, full fat",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Mushrooms",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Carbendazim",
+    "detects": 6,
+    "max": 0.33,
+    "flag": null
+   },
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 2,
+    "max": 0.49,
+    "flag": null
+   },
+   {
+    "name": "Thiabendazole",
+    "detects": 2,
+    "max": 0.089,
+    "flag": null
+   },
+   {
+    "name": "Prochloraz",
+    "detects": 1,
+    "max": 0.016,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Mussels",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Nectarine",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Propargite",
+    "detects": 7,
+    "max": 1.1,
+    "flag": null
+   },
+   {
+    "name": "Bifenthrin",
+    "detects": 6,
+    "max": 0.25,
+    "flag": null
+   },
+   {
+    "name": "Dithiocarbamates",
+    "detects": 4,
+    "max": 0.33,
+    "flag": null
+   },
+   {
+    "name": "Iprodione",
+    "detects": 3,
+    "max": 0.21,
+    "flag": null
+   },
+   {
+    "name": "Trichlorfon",
+    "detects": 2,
+    "max": 0.12,
+    "flag": null
+   },
+   {
+    "name": "Azinphos methyl",
+    "detects": 1,
+    "max": 0.014,
+    "flag": null
+   },
+   {
+    "name": "Cypermethrin",
+    "detects": 1,
+    "max": 0.072,
+    "flag": null
+   },
+   {
+    "name": "Methomyl",
+    "detects": 1,
+    "max": 0.015,
+    "flag": null
+   },
+   {
+    "name": "Propiconazole",
+    "detects": 1,
+    "max": 0.02,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Oats, rolled",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 1,
+    "max": 0.014,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Oil, canola and olive",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Onions",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": []
+ },
+ {
+  "name": "Orange",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Imazalil",
+    "detects": 8,
+    "max": 0.31,
+    "flag": null
+   },
+   {
+    "name": "Thiabendazole",
+    "detects": 7,
+    "max": 0.12,
+    "flag": null
+   },
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 3,
+    "max": 0.036,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Pasta",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 2,
+    "max": 0.034,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Peach, natural juice",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Peanut butter",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Haloxyfop-methyl",
+    "detects": 1,
+    "max": 0.03,
+    "flag": null
+   },
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 1,
+    "max": 0.024,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Peas, frozen",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Pie, meat, individual size",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 2,
+    "max": 0.048,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Pineapple, canned in natural juice",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Pizza, meat and vege topping",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Carbendazim",
+    "detects": 1,
+    "max": 0.036,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos methyl",
+    "detects": 1,
+    "max": 0.016,
+    "flag": null
+   },
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 1,
+    "max": 0.044,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Potato",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Chlorpropham",
+    "detects": 1,
+    "max": 0.026,
+    "flag": null
+   },
+   {
+    "name": "Fluazifop-P-butyl",
+    "detects": 1,
+    "max": 0.046,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Potato Crisps",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Prawns, cooked",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Dithiocarbamates",
+    "detects": 2,
+    "max": 0.2,
+    "flag": "none-set"
+   }
+  ]
+ },
+ {
+  "name": "Pumpkin",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": []
+ },
+ {
+  "name": "Rice, white, long grain",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Sauce, savoury, non-tomato",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Sauce, tomato",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Sausages, beef",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Soft Drink",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Soy Beverage, full fat",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Strawberries",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Myclobutanil",
+    "detects": 7,
+    "max": 0.055,
+    "flag": null
+   },
+   {
+    "name": "Iprodione",
+    "detects": 5,
+    "max": 0.18,
+    "flag": null
+   },
+   {
+    "name": "Pirimicarb",
+    "detects": 5,
+    "max": 0.085,
+    "flag": null
+   },
+   {
+    "name": "Pyrimethanil",
+    "detects": 5,
+    "max": 0.27,
+    "flag": null
+   },
+   {
+    "name": "Captan",
+    "detects": 2,
+    "max": 0.16,
+    "flag": null
+   },
+   {
+    "name": "Cypermethrin",
+    "detects": 1,
+    "max": 0.082,
+    "flag": null
+   },
+   {
+    "name": "Cyprodinil",
+    "detects": 1,
+    "max": 0.022,
+    "flag": null
+   },
+   {
+    "name": "Dithiocarbamates",
+    "detects": 1,
+    "max": 0.33,
+    "flag": null
+   },
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 1,
+    "max": 0.05,
+    "flag": null
+   },
+   {
+    "name": "Spinosad",
+    "detects": 1,
+    "max": 0.01,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Sugar, white",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Sultanas",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Azoxystrobin",
+    "detects": 3,
+    "max": 0.021,
+    "flag": null
+   },
+   {
+    "name": "Chlorpyrifos",
+    "detects": 3,
+    "max": 0.017,
+    "flag": null
+   },
+   {
+    "name": "Dithiocarbamates",
+    "detects": 3,
+    "max": 0.14,
+    "flag": null
+   },
+   {
+    "name": "Piperonyl butoxide",
+    "detects": 3,
+    "max": 0.11,
+    "flag": null
+   },
+   {
+    "name": "Captan",
+    "detects": 2,
+    "max": 0.24,
+    "flag": null
+   },
+   {
+    "name": "Iprodione",
+    "detects": 2,
+    "max": 0.11,
+    "flag": null
+   },
+   {
+    "name": "Pyrimethanil",
+    "detects": 2,
+    "max": 0.047,
+    "flag": null
+   },
+   {
+    "name": "Acetamiprid",
+    "detects": 1,
+    "max": 0.018,
+    "flag": null
+   },
+   {
+    "name": "Cypermethrin",
+    "detects": 1,
+    "max": 0.022,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Sushi roll, nori",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Sweetcorn, kernels, frozen",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Tea",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Tomatoes, canned",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Tomatoes, raw",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Imidacloprid",
+    "detects": 4,
+    "max": 0.085,
+    "flag": null
+   },
+   {
+    "name": "Cypermethrin",
+    "detects": 2,
+    "max": 0.12,
+    "flag": null
+   },
+   {
+    "name": "Dithiocarbamates",
+    "detects": 2,
+    "max": 0.23,
+    "flag": null
+   },
+   {
+    "name": "Acephate",
+    "detects": 1,
+    "max": 0.028,
+    "flag": null
+   },
+   {
+    "name": "Bifenthrin",
+    "detects": 1,
+    "max": 0.021,
+    "flag": null
+   },
+   {
+    "name": "Difenoconazole",
+    "detects": 1,
+    "max": 0.011,
+    "flag": null
+   },
+   {
+    "name": "Methamidophos",
+    "detects": 1,
+    "max": 0.029,
+    "flag": null
+   },
+   {
+    "name": "Permethrin",
+    "detects": 1,
+    "max": 0.029,
+    "flag": null
+   },
+   {
+    "name": "Triadimenol",
+    "detects": 1,
+    "max": 0.016,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Tuna, canned in brine",
+  "samples": 4,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Water, tap",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ },
+ {
+  "name": "Watermelon",
+  "samples": 8,
+  "fresh": true,
+  "chemicals": [
+   {
+    "name": "Fluazifop-P-butyl",
+    "detects": 1,
+    "max": 0.033,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Wine, red and white",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": [
+   {
+    "name": "Iprodione",
+    "detects": 2,
+    "max": 0.029,
+    "flag": null
+   },
+   {
+    "name": "Metalaxyl",
+    "detects": 2,
+    "max": 0.015,
+    "flag": null
+   }
+  ]
+ },
+ {
+  "name": "Yoghurt, fruit, full fat",
+  "samples": 8,
+  "fresh": false,
+  "chemicals": []
+ }
+]
